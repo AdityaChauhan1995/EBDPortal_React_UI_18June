@@ -1,0 +1,446 @@
+{
+    "acctMgrId": "288",
+    "acctManagerDealerCode": "SMETS.00008",
+    "acctMgrName": "CALLIE NG SZE WAN",
+    "dataPerUnit": 0,
+    "usersPerUnit": 1,
+    "monthlyVasForData": 0,
+    "monthlyVasForLine": 48,
+    "approveRemarksStatus": "EXIST",
+    "allowResub": "off",
+    "dealerCode": "SME05.C0001",
+    "groupName": "Share Packages",
+    "lineCount": 1,
+    "maxLineCount": 4,
+    "pendingLineCount": 0,
+    "custSignDate": "16/10/2017",
+    "custBrnNo": "628567U",
+    "masterRegId": "6743",
+    "masterRegStatus": "Pending Approval",
+    "contactMode": "Email",
+    "easPackageName": "ONEBusiness Office (24 Mths Contract)",
+    "lineOrderQty": 0,
+    "dataOrderQty": 0,
+    "virtualServiceNo": null,
+    "accountNo": null,
+    "billable": "off",
+    "customerType": null,
+    "advPayment": "off",
+    "dealerName": "EXCEL EFFORT SDN BHD (SME05.C0001)",
+    "bpuRemarks": "scwdsaz",
+    "dealerRemarks": "test",
+    "ratePlanId": 1122,
+    "easRegistration": null,
+    "rejectReasons": [
+        {
+            "key": 33,
+            "value": "ADVANCE PAYMENT-NOT ATTACHED",
+            "text": "R"
+        },
+        {
+            "key": 21,
+            "value": "AUTHORIZED NAME MISSING IN LOR",
+            "text": "R"
+        },
+        {
+            "key": 23,
+            "value": "BACKDATED LOA",
+            "text": "R"
+        },
+        {
+            "key": 45,
+            "value": "BANK IN SLIP/CHEQUE NOT ATTACHED OR NOT CLEAR",
+            "text": "R"
+        },
+        {
+            "key": 41,
+            "value": "BILLING ADDRESS DIFFERENT FROM RF AND KENAN",
+            "text": "R"
+        },
+        {
+            "key": 42,
+            "value": "BIZFIBRE-TM SCREEN SHOT NOT FURNISHED",
+            "text": "R"
+        },
+        {
+            "key": 34,
+            "value": "CASE NO NOT INDICATED FOR EXCEPTIONAL HANDLING",
+            "text": "R"
+        },
+        {
+            "key": 50,
+            "value": "CHARGE RULE-WRONGLY/NOT ASSIGNED/NOT INDICATED IN RF",
+            "text": "R"
+        },
+        {
+            "key": 10,
+            "value": "COMBINE SUBSIDY-INCORRECT AMT",
+            "text": "R"
+        },
+        {
+            "key": 24,
+            "value": "COMP STAMP ADDRESS DIFFER WITH KENAN ",
+            "text": "R"
+        },
+        {
+            "key": 47,
+            "value": "DATA CONTRACT WRONGLY/NOT ASSIGNED",
+            "text": "R"
+        },
+        {
+            "key": 51,
+            "value": "DEALER DID NOT ENDORSE ON THE RF AND SUPPORTING DOCS",
+            "text": "R"
+        },
+        {
+            "key": 19,
+            "value": "DEALER REQUEST TO REJECT",
+            "text": "R"
+        },
+        {
+            "key": 22,
+            "value": "DEPOSIT AMOUNT INCORRECT",
+            "text": "R"
+        },
+        {
+            "key": 32,
+            "value": "DEPOSIT-NOT ATTACHED",
+            "text": "R"
+        },
+        {
+            "key": 27,
+            "value": "DEVICE DELIVERY ADDRESS NOT MATCH WITH COMP STAMP ",
+            "text": "R"
+        },
+        {
+            "key": 31,
+            "value": "DEVICE MODEL-DIFFERENT BETWEEN RF/PORTAL",
+            "text": "R"
+        },
+        {
+            "key": 12,
+            "value": "DEVICE-OBSOLETE MODELS",
+            "text": "R"
+        },
+        {
+            "key": 18,
+            "value": "DONE MANUALLY IN KENAN",
+            "text": "R"
+        },
+        {
+            "key": 6,
+            "value": "DUPLICATE SUBMISSION",
+            "text": "R"
+        },
+        {
+            "key": 11,
+            "value": "EXISTING PENALTY/CONTRACT",
+            "text": "R"
+        },
+        {
+            "key": 13,
+            "value": "FAILED CREDIT CHECK",
+            "text": "R"
+        },
+        {
+            "key": 55,
+            "value": "FLEXIFUND-PENDING PAYMENT",
+            "text": "R"
+        },
+        {
+            "key": 39,
+            "value": "HAS EXISTING DATA CONTRACT",
+            "text": "R"
+        },
+        {
+            "key": 40,
+            "value": "HAS EXISTING VOICE CONTRACT MORE THAN 6 MONTHS",
+            "text": "R"
+        },
+        {
+            "key": 54,
+            "value": "INCOMPLETE DOCUMENT-NO FORM 9/49/13",
+            "text": "R"
+        },
+        {
+            "key": 53,
+            "value": "INCOMPLETE DOCUMENT-NO LOA/LOR/R&A/DONOR BILL",
+            "text": "R"
+        },
+        {
+            "key": 52,
+            "value": "INCOMPLETE INFORMATION-NO PIC INFO",
+            "text": "R"
+        },
+        {
+            "key": 4,
+            "value": "INCOMPLETE/NO DOCUMENT",
+            "text": "R"
+        },
+        {
+            "key": 5,
+            "value": "INCOMPLETE/NO INFORMATION",
+            "text": "R"
+        },
+        {
+            "key": 25,
+            "value": "INCORRECT BILLING ROUTE",
+            "text": "R"
+        },
+        {
+            "key": 26,
+            "value": "INCORRECT CONTRACT IN RF",
+            "text": "R"
+        },
+        {
+            "key": 20,
+            "value": "LINES UNDER WRONG TYPE OF REGISTRATION",
+            "text": "R"
+        },
+        {
+            "key": 3,
+            "value": "LISTED WITH OTHER TELCO",
+            "text": "R"
+        },
+        {
+            "key": 29,
+            "value": "MNP - REJECT BY DONOR ",
+            "text": "R"
+        },
+        {
+            "key": 38,
+            "value": "MNP-BRN/IC REGISTERED AT DONOR NOT INDICATED IN RF",
+            "text": "R"
+        },
+        {
+            "key": 15,
+            "value": "MNP-INCOMPLETE DOCUMENT",
+            "text": "R"
+        },
+        {
+            "key": 14,
+            "value": "MNP-INCOMPLETE INFORMATION",
+            "text": "R"
+        },
+        {
+            "key": 16,
+            "value": "MNP-PARTIAL ACTIVATION DONE",
+            "text": "R"
+        },
+        {
+            "key": 17,
+            "value": "MNP-PENDING TOP-UP",
+            "text": "R"
+        },
+        {
+            "key": 28,
+            "value": "NO DATE INDICATED IN RELEASE  ACCEPTANCE LETTER",
+            "text": "R"
+        },
+        {
+            "key": 30,
+            "value": "NO P/ORDER SUBMITTED BY DEALER",
+            "text": "R"
+        },
+        {
+            "key": 1,
+            "value": "OUTSTANDING BILL-CONSUMER",
+            "text": "R"
+        },
+        {
+            "key": 2,
+            "value": "OUTSTANDING BILL-EXISTING A/C",
+            "text": "R"
+        },
+        {
+            "key": 9,
+            "value": "PHONE SUBSIDY-WRONG TOP-UP",
+            "text": "R"
+        },
+        {
+            "key": 49,
+            "value": "PREMATURE AUTO-WAIVER COMPONENT NOT ASSIGNED",
+            "text": "R"
+        },
+        {
+            "key": 46,
+            "value": "RATE PLAN WRONGLY ASSIGNED-DIFFERENT BETWEEN RF/PORTAL",
+            "text": "R"
+        },
+        {
+            "key": 44,
+            "value": "REQUEST TYPE NOT INDICATED IN RF/WRONGLY SELECTED IN PORTAL",
+            "text": "R"
+       },
+        {
+            "key": 43,
+            "value": "SIM CARD/MSISDN NOT VALID OR BELONG TO ANOTHER OWNER",
+            "text": "R"
+        },
+        {
+            "key": 7,
+            "value": "SUPPLINE-NOT TRANSFERRED",
+            "text": "R"
+        },
+        {
+            "key": 8,
+            "value": "SUPPLINE-SUSPENDED",
+            "text": "R"
+        },
+        {
+            "key": 36,
+            "value": "TEMPORARY I/C OR I/C-INVALID",
+            "text": "R"
+       },
+        {
+            "key": 35,
+            "value": "TOTAL LINE(S) DIFFERENT BETWEEN RF/PORTAL",
+            "text": "R"
+        },
+        {
+            "key": 37,
+            "value": "UNABLE TO OPEN ATTACHMENT",
+            "text": "R"
+        },
+        {
+            "key": 48,
+            "value": "VOICE CONTRACT WRONGLY/NOT ASSIGNED",
+            "text": "R"
+        }
+    ],
+    "zerolution": "No",
+    "checkFlexiFundCrp": null,
+    "notificationEmail": "",
+    "productCategoryId": 24,
+    "easMasterRegId": null,
+    "masterRegdfStatus": null,
+    "createdDate": 1508129486000,
+    "modifiedDate": null,
+    "rejectBy": "bpu@maxis.com.my",
+    "cancelledBy": null,
+    "rejectedDate": 1509090200000,
+    "cancelledDate": null,
+    "rejectWithResub": null,
+    "marketCode": null,
+    "collectionCode": "15",
+    "reasonCode": "DEVICE-OBSOLETE MODELS",
+    "maxisCenter": 3,
+    "cmssNo": "1234",
+    "acctCategory": null,
+    "vsnKenanStatus": null,
+    "onlyMnp": "N",
+    "totalMembers": 1,
+    "authSignEmail": null,
+    "authSignSms": null,
+    "parentId": null,
+    "hierarchyId": null,
+    "errorCode": "0",
+    "errorMessage": [
+        "Success"
+    ],
+    "accountCategory": null,
+    "marketCodeId": "null",
+    "marketCodeName": null,
+    "prodCatName": "New Group with Device Fund",
+    "brnInfo": {
+        "portalCustInfo": {
+            "companyName": "ABLEFOAM SDN BHD",
+            "companyCodeName": "Sdn Bhd company",
+            "businessName": null,
+            "staffStrength": "3",
+            "custPuc": null,
+            "custFinalRemark": null,
+            "custBrnNo": null,
+            "businessId": null
+        },
+        "authorizedSignatory": {
+            "authName": "SUM WENG YOKE",
+            "authIcNo": "551003105694",
+            "authFixedNo": "60387366996",
+            "authFaxNo": "60387360675",
+            "authMobileNo": "60122981992",
+            "authEmail": "kctan.biz@gmail.com"
+        },
+        "documents": null,
+        "errorCode": null,
+        "errorMessage": null,
+        "addrInfo": {
+            "billingAddress": {
+                "address1": "LOT 61, BATU 11,",
+                "address2": "JALAN CHERAS",
+                "postCode": "43000",
+                "city": "KAJANG",
+                "state": "SELANGOR",
+                "country": "Malaysia"
+            },
+            "deliveryAddress": {
+                "contactName": "TEST",
+                "contactPhoneNo": "12345678",
+                "contactIC": "1234",
+                "contactFixNo": "12345678",
+                "address1": "LOT 61, BATU 11,",
+                "address2": "JALAN CHERAS",
+                "postCode": "43000",
+                "city": "KAJANG",
+                "state": "SELANGOR",
+                "country": "Malaysia"
+            },
+            "picDetails": {
+                "picName": "TEST1",
+                "picEMail": "test@yahoo.com",
+                "picContactNumber": null,
+                "notificationEmail": "test@gmail.com",
+                "picContactNo": "12345678"
+            }
+        },
+        "documentUploadItems": [
+            {
+                "documentCode": "1109",
+                "sNo": 4,
+                "documentDesc": "CMSS Document",
+                "documentType": "SBC",
+                "maxFileSize": 5,
+                "compulsoryInd": "No",
+                "sourceInd": "EBD",
+                "documentType2": null,
+                "sourceInd2": null,
+                "uploadInd": null,
+                "documentregId": null,
+                "fileName": null,
+                "regId": null
+            },
+            {
+                "documentCode": "1046",
+                "sNo": 7,
+                "documentDesc": "Addendum",
+                "documentType": "SBC",
+                "maxFileSize": 5,
+                "compulsoryInd": "No",
+                "sourceInd": "EBD",
+                "documentType2": null,
+                "sourceInd2": null,
+                "uploadInd": "Y",
+                "documentregId": null,
+                "fileName": null,
+                "regId": 1112924
+            },
+            {
+                "documentCode": "1047",
+                "sNo": 8,
+                "documentDesc": "Bank-in Slip",
+                "documentType": "SBC",
+                "maxFileSize": 5,
+                "compulsoryInd": "No",
+                "sourceInd": "EBD",
+                "documentType2": null,
+                "sourceInd2": null,
+                "uploadInd": null,
+                "documentregId": null,
+                "fileName": null,
+                "regId": null
+            }
+        ]
+    },
+    "easPackageId": 1122
+}
+

@@ -1,0 +1,58 @@
+{
+    "brnInfo":{"portalCustInfo": 
+        {
+            "custBrnNo1":"628567U",
+			"companyName":"Maxis SDN BHD",
+				"companyCodeName": "Sdn Bhd company",
+				"staffStrength": 3,
+				"custPuc":"500,000.00",
+				"custFinalRemark":"Recommend for 13 lines xxxxx.00134 24/12/2014 18: 23 Approve 13 lines only 88887.00670 24/12/2014 18: 51"
+		
+		},
+			"authorizeSignatory": {
+				"authName":"Maxis",
+				"authIcNo": "Confidential",
+				"authFixedNo":"Confidential",
+				"authFaxNo":"Confidential",
+				"authMobileNo":"Confidential",
+				"authEmail":"Confidential"
+			},
+			"documentUploadItems": [
+				{
+					"regId": 0,
+					"documentDesc": "Addendum",
+					"fileName": "Abc.docx",
+					"documentType":"",
+					"sourceInd":"",
+					"compulsoryInd":"Yes",
+					"documentCode":"",
+					"sNo": "",
+					"uploadInd": "Y"
+				},
+				{
+					"regId": 1,
+					"documentDesc": "Bank-in Slip",
+					"fileName": "Abd.docx",
+					"documentType": "",
+					"sourceInd": "",
+					"compulsoryInd": "Yes",
+					"documentCode": "",
+					"sNo":"",
+					"uploadInd":"Y"
+					
+				
+				},
+					{
+						"regId": 2,
+						"documentDesc": "LOR",
+						"fileName": "Abd.docx",
+						"documentType": "",
+						"sourceInd": "",
+						"compulsoryInd": "No",
+						"documentCode": "",
+						"sNo": "",
+						"uploadInd": "N"
+					}
+			]
+		}
+}

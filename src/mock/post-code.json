@@ -1,0 +1,31 @@
+{
+	"addrDetail": {
+		"addrId": 15,
+		"btuId": "test",
+		"instAddr": "55T, JALAN TELUK WANJAH, ALOR SETAR, 05200 ALOR SETAR, KEDAH",
+		"instArea": "ALOR SETAR",
+		"instAreaType": "FTTH",
+		"custName": "caditya",
+		"custEmail": "as@as.as",
+		"custMobileNo": "12345678",
+		"contactName": "caditya123",
+		"contactEmail": "as@as.as",
+		"contactMobileNo": "3456789765",
+		"voip": "ON",
+		"iptv": "ON",
+		"tr69": "ON"
+	},
+	"orderId": 5,
+	"cancellationReason": null,
+	"comments": null,
+	"createdBy": "dkamal",
+	"createdDate": "2021-06-15T13:54:33.000+00:00",
+	"modifiedBy": null,
+	"modifiedDate": "2021-06-16T14:03:34.420Z",
+	"orderStatus": "S",
+	"orderType": "MOD",
+	"packageId": "400",
+	"slotNo": 1,
+	"appointmentDate": "2021-06-19T16:00:00.000Z",
+	"subscriberType": "Home"
+}

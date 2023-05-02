@@ -1,0 +1,9 @@
+{
+	"addedFundDevices":[
+			{"deviceOrderNo":"","deviceModel":"IPhone X","quantity":2,"deviceRRP":532,"deviceId":1,"deliveryStatus":"","deliveryDate":"" },
+			{"deviceOrderNo":"","deviceModel":"IPhone 8","quantity":1,"deviceRRP":532,"deviceId":43, "deliveryStatus":"","deliveryDate":""},
+			{"deviceOrderNo":"","deviceModel":"IPhone 7","quantity":2,"deviceRRP":532,"deviceId":767, "deliveryStatus":"","deliveryDate":""},
+			{"deviceOrderNo":"","deviceModel":"IPhone 6","quantity":1,"deviceRRP":532,"deviceId":64, "deliveryStatus":"","deliveryDate":""},
+			{"deviceOrderNo":"","deviceModel":"IPhone 5","quantity":1,"deviceRRP":532,"deviceId":665, "deliveryStatus":"","deliveryDate":""}
+	]
+}

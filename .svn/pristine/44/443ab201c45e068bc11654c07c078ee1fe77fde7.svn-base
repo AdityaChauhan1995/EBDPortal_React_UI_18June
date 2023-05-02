@@ -1,0 +1,5 @@
+#REACT_APP_API_BASE=http://10.200.52.222:9090/EBDPortal/rest/ebd/bundle/api
+REACT_APP_API_BASE=http://10.200.52.222:9090/EBDPortal_03June/rest/ebd
+REACT_APP_CMSS_DOC_CODE=1108
+REACT_APP_API_TOKEN=http://localhost:9090/EBDPortal/rest/ebd/operations/api
+

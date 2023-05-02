@@ -1,0 +1,6 @@
+{
+	"flexiFundDevices":[
+			{ "key": "1", "text": "Iphone x", "value": "Iphone x" },
+			{ "key": "2", "text": "Iphone 8", "value": "Iphone 8" }
+		]
+}

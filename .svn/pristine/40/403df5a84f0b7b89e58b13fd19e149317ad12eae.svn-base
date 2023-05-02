@@ -1,0 +1,10 @@
+{
+	 	"deviceFunds":[
+		  	{"key":0,"value":{"msisdn":6012454556454,"ratePlan":"Flexishare 288","contract":"Flexishare 288 24 months","period":"New","action":"New", "fundAmount":288, "approvedAmount": 288, "minFundAmount":200,"maxFundAmount":500}},
+		  	{"key":1,"value":{"msisdn":6012454547767,"ratePlan":"Flexishare 388","contract":"Flexishare 388 24 months","period":"New","action":"New", "fundAmount":388, "approvedAmount": 388,"minFundAmount":200,"maxFundAmount":500}},
+		  	{"key":2,"value":{"msisdn":6012454545666,"ratePlan":"Flexishare 488","contract":"Flexishare 388 24 months","period":"New","action":"New", "fundAmount":388, "approvedAmount": 388,"minFundAmount":200,"maxFundAmount":500}},
+		  	{"key":3,"value":{"msisdn":6012454547898,"ratePlan":"Flexishare 388","contract":"","period":"","action":"","approval":""}},
+		  	{"key":4,"value":{"msisdn":6012454547769,"ratePlan":"Flexishare 388","contract":"Flexishare 388 24 months","period":"New","action":"New", "fundAmount":388, "approvedAmount": 388,"minFundAmount":200,"maxFundAmount":500}},
+		  	{"key":5,"value":{"msisdn":6012454547870,"ratePlan":"Flexishare 488","contract":"","period":"","action":"","fundAmount":""}}
+		]
+}

@@ -1,0 +1,63 @@
+[
+    {
+        "regId": "1115992",
+        "regType": "New Registration",
+        "ratplan": 707,
+        "regTypeId": null,
+        "deviceContract": null,
+        "deliveryNumber": "ZES3281",
+        "vas": null,
+        "mobileInfo": {
+            "mobileNo": "60121925606",
+            "sim": "8960010308258357960",
+            "donorAccountNo": null,
+            "simType": "Normal Sim",
+            "donorType": null
+        },
+        "lineDeviceInfo": {
+            "deviceId": "117",
+            "phoneModel": "IPHONE 6S64GB SILVER COMMERCIAL",
+            "status": null,
+            "deviceDeliveryNo": null,
+            "deviceRrp": 3489,
+            "monthlyInstallment": 121,
+            "noOfInstallments": 24,
+            "zerolutionUpgrade": null,
+            "zerolutionPremium": null,
+            "zerolutionComponent": "No",
+            "imei": "987456783454321",
+            "isUpgradeBasicProtection": "No",
+            "isZerolutionPremium": "No",
+            "isPremiumDeviceProtection": "Yes",
+            "intallmentDate": 1522307664604,
+            "upgradeFee": 43,
+            "safeDeviceMnthlyChrg": null
+        },
+        "contractInfo": null,
+        "lineStatus": "Zerolution Activation Completed",
+        "fundAmount": null,
+        "consumedAmount": null,
+        "balanceAmount": null,
+        "fundStatus": null,
+        "oldComponentList": null,
+        "vasList": null,
+        "iddList": null,
+        "flexiFundContractTaken": false,
+        "pendingActionContracts": {
+            "componentPackageInfoList": null,
+            "componentPackageInfoListForMembeTransfer": null,
+            "uncommonList": null,
+            "vasList": null,
+            "terminateVariable": null,
+            "checkMaintainTerminate": null,
+            "code": null,
+            "errorMsg": null,
+            "flagForResetAction": null,
+            "mnpFlag": null,
+            "componentPackageInfoListForMNPView": null,
+            "errorCode": null,
+            "prematureWaiver": null
+        },
+        "key": 1115992
+    }
+]

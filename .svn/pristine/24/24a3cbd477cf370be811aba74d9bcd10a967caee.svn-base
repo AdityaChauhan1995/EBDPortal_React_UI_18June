@@ -1,0 +1,8 @@
+{
+	"regTypes":[
+	  		{ "key": "1", "text": "Normal Registration", "value": "Normal Registration" },
+	  		{ "key": "2", "text": "MNP Port In", "value": "MNP Port In" },
+	  		{ "key": "3", "text": "Non Member Transfer", "value": "Non Member Transfer" },
+	  		{ "key": "4", "text": "Change Subscription", "value": "Change Subscription" }
+	  	]
+}

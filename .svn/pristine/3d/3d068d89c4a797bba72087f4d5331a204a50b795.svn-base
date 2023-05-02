@@ -1,0 +1,32 @@
+{
+    "reportHistoryExecutionData": {
+            "tableHeader" : {
+                "sNo":"SNo", "reportName":"Report Name", "runDate1":"Run Date", "status":"Status", "errorMessage":"Error Message", "nextRun":"Next Run", "runType":"Run Type"
+            },
+            "tableRow":[{
+            	"reportName":"TAT Report",
+            	"runDate1":"29/10/2018 10:00:00 AM", 
+            	"status":"Success", 
+            	"errorMessage":"",
+            	"nextRun":"29/10/2018 10:00:00 AM",
+            	"runType":"Scheduled"
+            },	
+            {
+            	"reportName":"TAT Report",
+            	"runDate1":"30/10/2018 10:00:00 AM", 
+            	"status":"Failed", 
+            	"errorMessage":"",
+            	"nextRun":"31/10/2018 10:00:00 AM",
+            	"runType":"Scheduled"
+            },
+            {
+            	"reportName":"TAT Report",
+            	"runDate1":"31/10/2018 10:00:00 AM", 
+            	"status":"In Progress", 
+            	"errorMessage":"Error sending while sending mail to user",
+            	"nextRun":"01/11/2018 10:00:00 AM",
+            	"runType":"Scheduled"
+
+            }]
+    }      
+}

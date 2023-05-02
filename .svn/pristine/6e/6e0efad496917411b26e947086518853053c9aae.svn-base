@@ -1,0 +1,54 @@
+{
+    "reportName": [
+    {
+        "key": "0",
+        "text": "Full PO Report",
+        "value": "Full PO Report"
+    },
+    {
+        "key": "1",
+        "text": "Biz Fibre Report",
+        "value": "Biz Fibre Report"
+    },
+    {
+        "key": "2",
+        "text": "Bulk & TAT Report",
+        "value": "Bulk & TAT Report"
+    },
+    {
+        "key": "3",
+        "text": "PIC Detail",
+        "value": "PIC Detail"
+    },
+    {
+        "key": "4",
+        "text": "Post Approval PO Report",
+        "value": "Post Approval PO Report"
+    },
+    {
+        "key": "5",
+        "text": "PO status report",
+        "value": "PO status report"
+    },
+    {
+        "key": "6",
+        "text": "Top 5 impacted services",
+        "value": "Top 5 impacted services"
+    },
+    {
+        "key": "7",
+        "text": "ADR – EBD PORTAL (phone order) company specific",
+        "value": "ADR – EBD PORTAL (phone order) company specific"
+    },
+    {
+        "key": "8",
+        "text": "EBD Monthly Incidents tracker & Ticket Analysis report",
+        "value": "EBD Monthly Incidents tracker & Ticket Analysis report"
+    },
+    {
+        "key": "9",
+        "text": "Custom PO report",
+        "value": "Custom PO report"
+    }
+]
+}

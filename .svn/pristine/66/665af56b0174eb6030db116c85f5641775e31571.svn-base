@@ -1,0 +1,790 @@
+{
+    "bundleType": "MAXIS",
+    "orderCategory": "Normal",
+    "brn": "628567U",
+    "vsn": "",
+    "selectedVSN": "New - Not Available Yet",
+    "addressInfo": {
+        "billingAddress": {
+            "address1": "PJ KL SEJATI",
+            "address2": "sector 46",
+            "postCode": "88300",
+            "city": null,
+            "state": "SELANGOR",
+            "country": "Malaysia",
+            "postCodeHint": "88300,SELANGOR"
+        },
+        "deliveryAddress": {
+            "address1": "PJ KL SEJATI",
+            "address2": "sector 46",
+            "postCode": "88300",
+            "city": null,
+            "state": "SELANGOR",
+            "country": "Malaysia",
+            "postCodeHint": "88300,SELANGOR",
+            "contactName": "rahul",
+            "contactPhoneNo": "9090909090",
+            "contactIC": "12345abcABC",
+            "contactFixNo": "9090909090"
+        },
+        "picDetails": {
+            "picName": "DOBE",
+            "picEMail": "as@gmail.com",
+            "picContactNumber": "9090909090",
+            "notificationEmail": "as@gmail.com"
+        }
+    },
+    "brnInfo": {
+        "portalCustInfo": {
+            "companyName": "MAXIS BHD",
+            "companyCodeName": "Berhad company",
+            "businessName": "Agriculture,Hunting,Forestry Fishing",
+            "staffStrength": "2",
+            "custPuc": null,
+            "custFinalRemark": null,
+            "custBrnNo": "628567U",
+            "businessId": 5,
+            "custType": "Company / SME",
+            "accountType": "New"
+        },
+        "authorizedSignatory": {
+            "authName": "ELAINE",
+            "authIcNo": "900210125738",
+            "authFixedNo": "60178216707",
+            "authFaxNo": null,
+            "authMobileNo": null,
+            "authEmail": "yeeling@hotmail.com"
+        },
+        "documents": null,
+        "errorCode": "0",
+        "errorMessage": [
+            "Success"
+        ],
+        "addrInfo": {
+            "billingAddress": {
+                "address1": "PJ KL SEJATI",
+                "address2": "sector 46",
+                "postCode": "88300",
+                "city": null,
+                "state": "SELANGOR",
+                "country": "Malaysia",
+                "postCodeHint": "88300,SELANGOR"
+            },
+            "deliveryAddress": {
+                "address1": "PJ KL SEJATI",
+                "address2": "sector 46",
+                "postCode": "88300",
+                "city": null,
+                "state": "SELANGOR",
+                "country": "Malaysia",
+                "postCodeHint": "88300,SELANGOR",
+                "contactName": "rahul",
+                "contactPhoneNo": "9090909090",
+                "contactIC": "12345abcABC",
+                "contactFixNo": "9090909090"
+            },
+            "picDetails": {
+                "picName": "DOBE",
+                "picEMail": "as@gmail.com",
+                "picContactNumber": "9090909090",
+                "notificationEmail": "as@gmail.com"
+            }
+        },
+        "documentUploadItems": [
+            {
+                "documentCode": "1108",
+                "sNo": 4,
+                "documentDesc": "CMSS Document",
+                "documentType": "BC",
+                "maxFileSize": 5,
+                "compulsoryInd": null,
+                "sourceInd": "EBD",
+                "documentType2": null,
+                "sourceInd2": null,
+                "compulsory": true,
+                "uploadInd": null,
+                "documentregId": null,
+                "fileName": null,
+                "ref": null,
+                "file": null,
+                "regId": null
+            },
+            {
+                "documentCode": "1075",
+                "sNo": 4,
+                "documentDesc": "Addendum",
+                "documentType": "BC",
+                "maxFileSize": 5,
+                "compulsoryInd": null,
+                "sourceInd": "EBD",
+                "documentType2": null,
+                "sourceInd2": null,
+                "compulsory": true,
+                "uploadInd": null,
+                "documentregId": null,
+                "fileName": "error.PNG",
+                "ref": null,
+                "file": null,
+                "regId": 877589
+            },
+            {
+                "documentCode": "1077",
+                "sNo": 6,
+                "documentDesc": "Bank-in Slip",
+                "documentType": "BC",
+                "maxFileSize": 5,
+                "compulsoryInd": null,
+                "sourceInd": "EBD",
+                "documentType2": null,
+                "sourceInd2": null,
+                "compulsory": false,
+                "uploadInd": null,
+                "documentregId": null,
+                "fileName": null,
+                "ref": null,
+                "file": null,
+                "regId": null
+            }
+        ]
+    },
+    "tempUploadRegId": [
+        877589
+    ],
+    "easMasterRegId": "",
+    "action": "",
+    "rejectionReason": "",
+    "allowResubmission": "",
+    "noOfLines": "",
+    "companyDeposit": false,
+    "advancePayment": false,
+    "amountToVerify": "",
+    "parentId": "",
+    "hierarchyId": "",
+    "marketCode": "",
+    "totalApprovedAmount": 0,
+    "accountCategory": "",
+    "collectionCodeName": "",
+    "authorisedSignatoryDropdownValue": "",
+    "billableCheckboxValue": "",
+    "deposit": 0,
+    "totalDeposit": 0,
+    "totalLinesDeposit": 0,
+    "totalAdvanceDeposit": 0,
+    "totalDeviceTopUp": "0.00",
+    "DeviceTopUpGST": 0,
+    "totalPayment": 0,
+    "billableAccountNumber": "",
+    "isBillableChecked": false,
+    "cmssNo": "",
+    "approvalRemarks": "",
+    "assignedToDropdownValue": "",
+    "reviewDropdownValue": "",
+    "reasonCodeDropdownValue": "",
+    "billableAcct": "",
+    "dealerCode": "EBDPU.00001",
+    "dealerName": "TEST",
+    "dealerRemarks": "wt",
+    "accountManagerCode": 235,
+    "salesmanCode": "1234",
+    "salesmanName": "maxi",
+    "supportingCenter": 27,
+    "cmssID": "abc",
+    "customerSignDate": "21/09/2018",
+    "tnc": true,
+    "user": {
+        "userId": "bpu@maxis.com.my",
+        "userRole": "ECO",
+        "salesChannelId": "7320",
+        "dealerCode": "EBDPU.00001",
+        "dealerName": "TEST"
+    },
+    "addedDevices": [],
+    "orderSubmissionFailed": true,
+    "orderApprovalFailed": true,
+    "vasList": [
+        {
+            "vasId": 186785,
+            "newComponentId": "40090",
+            "newPackageId": "41888"
+        },
+        {
+            "vasId": 186786,
+            "newComponentId": "40252",
+            "newPackageId": "41773"
+        },
+        {
+            "vasId": 186771,
+            "newComponentId": "40026",
+            "newPackageId": "41888"
+        },
+        {
+            "vasId": 186776,
+            "newComponentId": "40032",
+            "newPackageId": "41888"
+        },
+        {
+            "vasId": 186804,
+            "newComponentId": "48173",
+            "newPackageId": "41888"
+        },
+        {
+            "vasId": 186770,
+            "newComponentId": "40023",
+            "newPackageId": "41888"
+        },
+        {
+            "vasId": 186803,
+            "newComponentId": "48172",
+            "newPackageId": "41888"
+        },
+        {
+            "vasId": 186775,
+            "newComponentId": "40030",
+            "newPackageId": "41888"
+        },
+        {
+            "vasId": 186802,
+            "newComponentId": "48115",
+            "newPackageId": "41756"
+        },
+        {
+            "vasId": 186805,
+            "newComponentId": "48179",
+            "newPackageId": "40478"
+        }
+    ],
+    "iddList": [],
+    "registrationDetails": {
+        "brnInfo": {
+            "portalCustInfo": ""
+        }
+    },
+    "previousFundAmount": 0,
+    "previousFundAmountUsed": 0,
+    "previousFundAmountLeft": 0,
+    "deviceFundUsed": 0,
+    "totalQuantity": 0,
+    "deviceFundLeft": 0,
+    "amountPayable": 0,
+    "tax": 0,
+    "msisdnList": [
+        {
+            "regId": "",
+            "regType": "Number Porting",
+            "regTypeId": 4,
+            "ratplan": 571,
+            "deviceContract": "Normal",
+            "deliveryNumber": "",
+            "mobileInfo": {
+                "mobileNo": "Outright_1",
+                "sim": "8960010308284480331",
+                "simType": "Micro Sim",
+                "donorAccountNo": "123",
+                "donorType": "DIGI",
+                "planType": ""
+            },
+            "lineDeviceInfo": {
+                "deviceId": "770",
+                "phoneModel": "ALCATEL PIXI 4-6 4G  METAL GOLD",
+                "status": null,
+                "deviceDeliveryNo": null,
+                "deviceRrp": 612,
+                "monthlyInstallment": null,
+                "noOfInstallments": null,
+                "zerolutionUpgrade": null,
+                "zerolutionPremium": null,
+                "zerolutionComponent": null,
+                "imei": null,
+                "isUpgradeBasicProtection": null,
+                "isZerolutionPremium": null,
+                "isPremiumDeviceProtection": null,
+                "intallmentDate": null,
+                "upgradeFee": null,
+                "safeDeviceMnthlyChrg": null,
+                "vendorId": 7,
+                "brandId": 14,
+                "groupId": null,
+                "quantity": "1"
+            },
+            "contractInfo": [],
+            "lineStatus": "Pending Approval",
+            "fundAmount": "",
+            "consumedAmount": "",
+            "balanceAmount": "",
+            "fundStatus": "",
+            "oldComponentList": [],
+            "vasList": [],
+            "iddList": [],
+            "promotion": "Biz - iPhone Value Share",
+            "promotionId": 91
+        },
+        {
+            "regId": "",
+            "regType": "Number Porting",
+            "regTypeId": 4,
+            "ratplan": 571,
+            "deviceContract": "Normal",
+            "deliveryNumber": "",
+            "mobileInfo": {
+                "mobileNo": "60121932492",
+                "sim": "8960010308284480341",
+                "simType": "Micro Sim",
+                "donorAccountNo": "123",
+                "donorType": "CELCOM",
+                "planType": ""
+            },
+            "lineDeviceInfo": {
+                "deviceId": "770",
+                "phoneModel": "ALCATEL PIXI 4-6 4G  METAL GOLD",
+                "status": null,
+                "deviceDeliveryNo": null,
+                "deviceRrp": 612,
+                "monthlyInstallment": null,
+                "noOfInstallments": null,
+                "zerolutionUpgrade": null,
+                "zerolutionPremium": null,
+                "zerolutionComponent": null,
+                "imei": null,
+                "isUpgradeBasicProtection": null,
+                "isZerolutionPremium": null,
+                "isPremiumDeviceProtection": null,
+                "intallmentDate": null,
+                "upgradeFee": null,
+                "safeDeviceMnthlyChrg": null,
+                "vendorId": 7,
+                "brandId": 14,
+                "groupId": null,
+                "quantity": "1"
+            },
+            "contractInfo": [],
+            "lineStatus": "Pending Approval",
+            "fundAmount": "",
+            "consumedAmount": "",
+            "balanceAmount": "",
+            "fundStatus": "",
+            "oldComponentList": [],
+            "vasList": [
+                {
+                    "vasId": 159016,
+                    "newComponentId": "40021",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159007,
+                    "newComponentId": "40252",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159000,
+                    "newComponentId": "40026",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159002,
+                    "newComponentId": "40028",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159001,
+                    "newComponentId": "40027",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159009,
+                    "newComponentId": "41316",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159219,
+                    "newComponentId": "42359",
+                    "newPackageId": "40588"
+                },
+                {
+                    "vasId": 159017,
+                    "newComponentId": "40023",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159010,
+                    "newComponentId": "44143",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159011,
+                    "newComponentId": "44144",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 179788,
+                    "newComponentId": "48115",
+                    "newPackageId": "41756"
+                }
+            ],
+            "iddList": [],
+            "promotion": "Biz - iPhone Value Share",
+            "promotionId": 91
+        },
+        {
+            "regId": "",
+            "regType": "Normal Registration",
+            "regTypeId": 1,
+            "ratplan": 1363,
+            "deviceContract": "Normal",
+            "deliveryNumber": "",
+            "mobileInfo": {
+                "mobileNo": "60121932493",
+                "sim": "8960010308284480351",
+                "simType": "Nano Sim",
+                "donorAccountNo": "",
+                "donorType": "",
+                "planType": ""
+            },
+            "lineDeviceInfo": {
+                "deviceId": "940",
+                "phoneModel": "APPLE IPHONE 7 PLUS 32GB - JET BLACK",
+                "status": null,
+                "deviceDeliveryNo": null,
+                "deviceRrp": 3159,
+                "monthlyInstallment": null,
+                "noOfInstallments": null,
+                "zerolutionUpgrade": null,
+                "zerolutionPremium": null,
+                "zerolutionComponent": null,
+                "imei": null,
+                "isUpgradeBasicProtection": null,
+                "isZerolutionPremium": null,
+                "isPremiumDeviceProtection": null,
+                "intallmentDate": null,
+                "upgradeFee": null,
+                "safeDeviceMnthlyChrg": null,
+                "vendorId": 7,
+                "brandId": 16,
+                "groupId": null,
+                "quantity": 1
+            },
+            "contractInfo": [],
+            "lineStatus": "Pending Approval",
+            "fundAmount": "",
+            "consumedAmount": "",
+            "balanceAmount": "",
+            "fundStatus": "",
+            "oldComponentList": [],
+            "vasList": [
+                {
+                    "vasId": 186785,
+                    "newComponentId": "40090",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186786,
+                    "newComponentId": "40252",
+                    "newPackageId": "41773"
+                },
+                {
+                    "vasId": 186771,
+                    "newComponentId": "40026",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186776,
+                    "newComponentId": "40032",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186804,
+                    "newComponentId": "48173",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186770,
+                    "newComponentId": "40023",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186803,
+                    "newComponentId": "48172",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186775,
+                    "newComponentId": "40030",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186802,
+                    "newComponentId": "48115",
+                    "newPackageId": "41756"
+                },
+                {
+                    "vasId": 186805,
+                    "newComponentId": "48179",
+                    "newPackageId": "40478"
+                }
+            ],
+            "iddList": [],
+            "promotion": " Micro SME Promo",
+            "promotionId": 279
+        }
+    ],
+    "totalLinesadvancePayment": 0,
+    "crpLineCount": 0,
+    "upgradeSafeDevice": false,
+    "safeDevice": false,
+    "billable": false,
+    "isOutright": false,
+    "todos": [
+        {
+            "regId": "[Not Available]",
+            "deviceContract": "Normal",
+            "regType": "Number Porting",
+            "regTypeId": 4,
+            "deliveryNo": "",
+            "ratePlan": "Value Share 120 IDD(iPhone)",
+            "ratePlanId": 571,
+            "promotion": "Biz - iPhone Value Share",
+            "promotionId": 91,
+            "msisdn": "Outright_1",
+            "simNo": "8960010308284480331",
+            "simType": "Micro Sim",
+            "donorType": "DIGI",
+            "donorAccountNo": "123",
+            "planType": "",
+            "lineDeviceInfo": {
+                "deviceId": "770",
+                "phoneModel": "ALCATEL PIXI 4-6 4G  METAL GOLD",
+                "status": null,
+                "deviceDeliveryNo": null,
+                "deviceRrp": 612,
+                "monthlyInstallment": null,
+                "noOfInstallments": null,
+                "zerolutionUpgrade": null,
+                "zerolutionPremium": null,
+                "zerolutionComponent": null,
+                "imei": null,
+                "isUpgradeBasicProtection": null,
+                "isZerolutionPremium": null,
+                "isPremiumDeviceProtection": null,
+                "intallmentDate": null,
+                "upgradeFee": null,
+                "safeDeviceMnthlyChrg": null,
+                "vendorId": 7,
+                "brandId": 14,
+                "groupId": null,
+                "quantity": "1"
+            },
+            "lineStatus": "Pending Approval",
+            "deviceStatus": "Pending Approval",
+            "vasList": [],
+            "iddList": [],
+            "billable": false
+        },
+        {
+            "regId": "[Not Available]",
+            "deviceContract": "Normal",
+            "regType": "Number Porting",
+            "regTypeId": 4,
+            "deliveryNo": "",
+            "ratePlan": "Value Share 120 IDD(iPhone)",
+            "ratePlanId": 571,
+            "promotion": "Biz - iPhone Value Share",
+            "promotionId": 91,
+            "msisdn": "60121932492",
+            "simNo": "8960010308284480341",
+            "simType": "Micro Sim",
+            "donorType": "CELCOM",
+            "donorAccountNo": "123",
+            "planType": "",
+            "lineDeviceInfo": {
+                "deviceId": "770",
+                "phoneModel": "ALCATEL PIXI 4-6 4G  METAL GOLD",
+                "status": null,
+                "deviceDeliveryNo": null,
+                "deviceRrp": 612,
+                "monthlyInstallment": null,
+                "noOfInstallments": null,
+                "zerolutionUpgrade": null,
+                "zerolutionPremium": null,
+                "zerolutionComponent": null,
+                "imei": null,
+                "isUpgradeBasicProtection": null,
+                "isZerolutionPremium": null,
+                "isPremiumDeviceProtection": null,
+                "intallmentDate": null,
+                "upgradeFee": null,
+                "safeDeviceMnthlyChrg": null,
+                "vendorId": 7,
+                "brandId": 14,
+                "groupId": null,
+                "quantity": "1"
+            },
+            "lineStatus": "Pending Approval",
+            "deviceStatus": "Pending Approval",
+            "vasList": [
+                {
+                    "vasId": 159016,
+                    "newComponentId": "40021",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159007,
+                    "newComponentId": "40252",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159000,
+                    "newComponentId": "40026",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159002,
+                    "newComponentId": "40028",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159001,
+                    "newComponentId": "40027",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159009,
+                    "newComponentId": "41316",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159219,
+                    "newComponentId": "42359",
+                    "newPackageId": "40588"
+                },
+                {
+                    "vasId": 159017,
+                    "newComponentId": "40023",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159010,
+                    "newComponentId": "44143",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 159011,
+                    "newComponentId": "44144",
+                    "newPackageId": "41542"
+                },
+                {
+                    "vasId": 179788,
+                    "newComponentId": "48115",
+                    "newPackageId": "41756"
+                }
+            ],
+            "iddList": [],
+            "billable": false
+        },
+        {
+            "regId": "[Not Available]",
+            "deviceContract": "Normal",
+            "regType": "Normal Registration",
+            "regTypeId": 1,
+            "deliveryNo": "",
+            "ratePlan": "Micro MOB Plan 128",
+            "ratePlanId": 1363,
+            "promotion": " Micro SME Promo",
+            "promotionId": 279,
+            "msisdn": "60121932493",
+            "simNo": "8960010308284480351",
+            "simType": "Nano Sim",
+            "donorType": "",
+            "donorAccountNo": "",
+            "planType": "",
+            "lineDeviceInfo": {
+                "deviceId": "940",
+                "phoneModel": "APPLE IPHONE 7 PLUS 32GB - JET BLACK",
+                "status": null,
+                "deviceDeliveryNo": null,
+                "deviceRrp": 3159,
+                "monthlyInstallment": null,
+                "noOfInstallments": null,
+                "zerolutionUpgrade": null,
+                "zerolutionPremium": null,
+                "zerolutionComponent": null,
+                "imei": null,
+                "isUpgradeBasicProtection": null,
+                "isZerolutionPremium": null,
+                "isPremiumDeviceProtection": null,
+                "intallmentDate": null,
+                "upgradeFee": null,
+                "safeDeviceMnthlyChrg": null,
+                "vendorId": 7,
+                "brandId": 16,
+                "groupId": null,
+                "quantity": 1
+            },
+            "lineStatus": "Pending Approval",
+            "deviceStatus": "Pending Approval",
+            "vasList": [
+                {
+                    "vasId": 186785,
+                    "newComponentId": "40090",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186786,
+                    "newComponentId": "40252",
+                    "newPackageId": "41773"
+                },
+                {
+                    "vasId": 186771,
+                    "newComponentId": "40026",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186776,
+                    "newComponentId": "40032",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186804,
+                    "newComponentId": "48173",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186770,
+                    "newComponentId": "40023",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186803,
+                    "newComponentId": "48172",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186775,
+                    "newComponentId": "40030",
+                    "newPackageId": "41888"
+                },
+                {
+                    "vasId": 186802,
+                    "newComponentId": "48115",
+                    "newPackageId": "41756"
+                },
+                {
+                    "vasId": 186805,
+                    "newComponentId": "48179",
+                    "newPackageId": "40478"
+                }
+            ],
+            "iddList": [],
+            "billable": false
+        }
+    ],
+    "regType": "Normal Registration",
+    "regTypeId": 1,
+    "ratePlan": "Micro MOB Plan 128",
+    "deviceContract": "Normal",
+    "mobileNumber": "",
+    "simCardNo": "",
+    "simType": "Nano Sim",
+    "phoneModel": "APPLE IPHONE 7 PLUS 32GB - JET BLACK",
+    "donorType": "",
+    "donorAccountNo": "",
+    "ratePlanId": 1363
+}

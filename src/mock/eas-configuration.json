@@ -1,0 +1,31 @@
+{
+	"bundleTypes": [
+		{
+			"key": "0",
+			"text": "Convergence",
+			"value": "Convergence"
+		},
+		{
+			"key": "1",
+			"text": "Flexishare_2.0",
+			"value": "Flexishare_2.0"
+		},
+		{
+			"key": "2",
+			"text": "Flexishare_2.0 Convergence",
+			"value": "Flexishare_2.0 Convergence"
+		}
+	],
+	"orderCategories": [
+		{
+			"key": "0",
+			"text": "New Group",
+			"value": "New Group"
+		},
+		{
+			"key": "1",
+			"text": "Existing Group",
+			"value": "Existing Group"
+		}
+	]
+}

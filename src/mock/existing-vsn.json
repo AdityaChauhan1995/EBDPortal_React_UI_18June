@@ -1,0 +1,146 @@
+getNodes [
+	{
+		"width": 150,
+		"height": 42,
+		"id": "1",
+		"data": {
+			"label": "Node 1"
+		},
+		"position": {
+			"x": 156.0526379147851,
+			"y": 91.59559844015234
+		},
+		"positionAbsolute": {
+			"x": 156.0526379147851,
+			"y": 91.59559844015234
+		},
+		"selected": false,
+		"dragging": false
+	},
+	{
+		"width": 150,
+		"height": 42,
+		"id": "2",
+		"data": {
+			"label": "Node 2"
+		},
+		"position": {
+			"x": 359.2471510705931,
+			"y": 29.86343079978235
+		},
+		"positionAbsolute": {
+			"x": 359.2471510705931,
+			"y": 29.86343079978235
+		},
+		"selected": false,
+		"dragging": false
+	},
+	{
+		"width": 150,
+		"height": 42,
+		"id": "3",
+		"position": {
+			"x": 74.65385785215076,
+			"y": 238.2632259567699
+		},
+		"data": {
+			"label": "Node 3"
+		},
+		"positionAbsolute": {
+			"x": 74.65385785215076,
+			"y": 238.2632259567699
+		},
+		"selected": true,
+		"dragging": false
+	},
+	{
+		"width": 150,
+		"height": 42,
+		"id": "4",
+		"position": {
+			"x": 570.2586197049992,
+			"y": 28.674223684779648
+		},
+		"data": {
+			"label": "Node 4"
+		},
+		"positionAbsolute": {
+			"x": 570.2586197049992,
+			"y": 28.674223684779648
+		},
+		"selected": false,
+		"dragging": false
+	},
+	{
+		"width": 150,
+		"height": 42,
+		"id": "5",
+		"position": {
+			"x": -54.244174106573,
+			"y": 120.2431715399891
+		},
+		"data": {
+			"label": "Node 5"
+		},
+		"positionAbsolute": {
+			"x": -54.244174106573,
+			"y": 120.2431715399891
+		},
+		"selected": false,
+		"dragging": false
+	}
+] getEdges [
+	{
+		"animated": false,
+		"style": {
+			"stroke": "black"
+		},
+		"id": "e2-1",
+		"source": "2",
+		"target": "1"
+	},
+	{
+		"animated": false,
+		"style": {
+			"stroke": "black"
+		},
+		"source": "4",
+		"sourceHandle": null,
+		"target": "2",
+		"targetHandle": null,
+		"id": "reactflow__edge-4-2"
+	},
+	{
+		"animated": false,
+		"style": {
+			"stroke": "black"
+		},
+		"source": "1",
+		"sourceHandle": null,
+		"target": "5",
+		"targetHandle": null,
+		"id": "reactflow__edge-1-5"
+	},
+	{
+		"animated": false,
+		"style": {
+			"stroke": "black"
+		},
+		"source": "1",
+		"sourceHandle": null,
+		"target": "3",
+		"targetHandle": null,
+		"id": "reactflow__edge-1-3"
+	},
+	{
+		"animated": false,
+		"style": {
+			"stroke": "black"
+		},
+		"source": "3",
+		"sourceHandle": null,
+		"target": "1",
+		"targetHandle": null,
+		"id": "reactflow__edge-3-1"
+	}
+]

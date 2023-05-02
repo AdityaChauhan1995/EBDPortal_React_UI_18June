@@ -1,0 +1,437 @@
+{
+	"bundleType": "MAXIS",
+	"orderCategory": "Normal",
+	"brn": "628567U",
+	"vsn": "",
+	"selectedVSN": null,
+	"addressInfo": {
+		"billingAddress": {
+			"address1": "LOT 61, BATU 11,",
+			"address2": "JALAN CHERAS",
+			"postCode": "43000",
+			"city": "KAJANG",
+			"state": "SELANGOR",
+			"country": "Malaysia",
+			"postCodeHint": "43000,KAJANG,SELANGOR"
+		},
+		"deliveryAddress": {
+			"address1": "LOT 61, BATU 11,",
+			"address2": "JALAN CHERAS",
+			"postCode": "44300",
+			"city": "BATANG KALI",
+			"state": "SELANGOR",
+			"country": "Malaysia",
+			"postCodeHint": "44300,BATANG KALI,SELANGOR",
+			"contactName": "CUSTOMER",
+			"contactIC": "123456789",
+			"contactPhoneNo": "123456789",
+			"contactFixNo": "543234345432"
+		},
+		"picDetails": {
+			"picName": "CUSTOMER",
+			"picEMail": "test@gmail.com",
+			"picContactNumber": "0123456789",
+			"notificationEmail": "test@gmail.com"
+		}
+	},
+	"brnInfo": {
+		"portalCustInfo": {
+			"companyName": "MAXIS BHD",
+			"companyCodeName": "Berhad company",
+			"businessName": "Agriculture,Hunting,Forestry Fishing",
+			"staffStrength": "2",
+			"custPuc": null,
+			"custFinalRemark": null,
+			"custBrnNo": "628567U",
+			"businessId": 5,
+			"custType": "Company / SME",
+			"accountType": "New"
+		},
+		"authorizedSignatory": {
+			"authName": "ELAINE",
+			"authIcNo": "900210125738",
+			"authFixedNo": "60178216707",
+			"authFaxNo": null,
+			"authMobileNo": null,
+			"authEmail": "yeeling@hotmail.com"
+		},
+		"documents": null,
+		"errorCode": "0",
+		"errorMessage": [
+			"Success"
+		],
+		"addrInfo": {
+			"billingAddress": {
+				"address1": "LOT 61, BATU 11,",
+				"address2": "JALAN CHERAS",
+				"postCode": "43000",
+				"city": "KAJANG",
+				"state": "SELANGOR",
+				"country": "Malaysia",
+				"postCodeHint": "43000,KAJANG,SELANGOR"
+			},
+			"deliveryAddress": {
+				"address1": "LOT 61, BATU 11,",
+				"address2": "JALAN CHERAS",
+				"postCode": "44300",
+				"city": "BATANG KALI",
+				"state": "SELANGOR",
+				"country": "Malaysia",
+				"postCodeHint": "44300,BATANG KALI,SELANGOR",
+				"contactName": "CUSTOMER",
+				"contactIC": "123456789",
+				"contactPhoneNo": "123456789",
+				"contactFixNo": "543234345432"
+			},
+			"picDetails": {
+				"picName": "CUSTOMER",
+				"picEMail": "test@gmail.com",
+				"picContactNumber": "0123456789",
+				"notificationEmail": "test@gmail.com"
+			}
+		},
+		"documentUploadItems": [
+			{
+				"documentCode": "1108",
+				"sNo": 4,
+				"documentDesc": "CMSS Document",
+				"documentType": "BC",
+				"maxFileSize": 5,
+				"compulsoryInd": null,
+				"sourceInd": "EBD",
+				"documentType2": null,
+				"sourceInd2": null,
+				"compulsory": true,
+				"uploadInd": null,
+				"documentregId": null,
+				"fileName": null,
+				"ref": null,
+				"file": null,
+				"regId": null
+			},
+			{
+				"documentCode": "1075",
+				"sNo": 4,
+				"documentDesc": "Addendum",
+				"documentType": "BC",
+				"maxFileSize": 5,
+				"compulsoryInd": null,
+				"sourceInd": "EBD",
+				"documentType2": null,
+				"sourceInd2": null,
+				"compulsory": true,
+				"uploadInd": null,
+				"documentregId": null,
+				"fileName": "address-contact-details1.JPG",
+				"ref": null,
+				"file": null,
+				"regId": 877153
+			},
+			{
+				"documentCode": "1077",
+				"sNo": 6,
+				"documentDesc": "Bank-in Slip",
+				"documentType": "BC",
+				"maxFileSize": 5,
+				"compulsoryInd": null,
+				"sourceInd": "EBD",
+				"documentType2": null,
+				"sourceInd2": null,
+				"compulsory": false,
+				"uploadInd": null,
+				"documentregId": null,
+				"fileName": null,
+				"ref": null,
+				"file": null,
+				"regId": null
+			}
+		]
+	},
+	"tempUploadRegId": [
+		877153
+	],
+	"easMasterRegId": "",
+	"action": "",
+	"rejectionReason": "",
+	"allowResubmission": "",
+	"noOfLines": "",
+	"companyDeposit": false,
+	"advancePayment": false,
+	"amountToVerify": "",
+	"parentId": "",
+	"hierarchyId": "",
+	"marketCode": "",
+	"totalApprovedAmount": 0,
+	"accountCategory": "",
+	"collectionCodeName": "",
+	"authorisedSignatoryDropdownValue": "",
+	"billableCheckboxValue": "",
+	"deposit": 0,
+	"totalDeposit": 0,
+	"totalLinesDeposit": 0,
+	"totalAdvanceDeposit": 0,
+	"totalDeviceTopUp": "0.00",
+	"DeviceTopUpGST": 0,
+	"totalPayment": 0,
+	"billableAccountNumber": "",
+	"isBillableChecked": false,
+	"cmssNo": "",
+	"approvalRemarks": "",
+	"assignedToDropdownValue": "",
+	"reviewDropdownValue": "",
+	"reasonCodeDropdownValue": "",
+	"billableAcct": "",
+	"dealerCode": "EBDPU.00001",
+	"dealerName": "TEST",
+	"dealerRemarks": "test",
+	"accountManagerCode": 237,
+	"salesmanCode": "",
+	"salesmanName": "",
+	"supportingCenter": 27,
+	"cmssID": "",
+	"customerSignDate": "06/09/2018",
+	"tnc": true,
+	"user": {
+		"userId": "bpu@maxis.com.my",
+		"userRole": "ECO",
+		"salesChannelId": "7320",
+		"dealerCode": "EBDPU.00001",
+		"dealerName": "TEST"
+	},
+	"addedDevices": [],
+	"orderSubmissionFailed": true,
+	"orderApprovalFailed": true,
+	"vasList": [
+		{
+			"vasId": 179864,
+			"newComponentId": "48115",
+			"newPackageId": "41756"
+		},
+		{
+			"vasId": 175783,
+			"newComponentId": "40090",
+			"newPackageId": "41836"
+		},
+		{
+			"vasId": 175778,
+			"newComponentId": "40021",
+			"newPackageId": "41836"
+		},
+		{
+			"vasId": 175798,
+			"newComponentId": "40252",
+			"newPackageId": "41773"
+		},
+		{
+			"vasId": 175780,
+			"newComponentId": "40026",
+			"newPackageId": "41836"
+		},
+		{
+			"vasId": 175782,
+			"newComponentId": "40032",
+			"newPackageId": "41836"
+		},
+		{
+			"vasId": 175784,
+			"newComponentId": "46269",
+			"newPackageId": "41836"
+		},
+		{
+			"vasId": 175779,
+			"newComponentId": "40023",
+			"newPackageId": "41836"
+		},
+		{
+			"vasId": 175785,
+			"newComponentId": "46270",
+			"newPackageId": "41836"
+		},
+		{
+			"vasId": 175781,
+			"newComponentId": "40030",
+			"newPackageId": "41836"
+		}
+	],
+	"registrationDetails": {
+		"brnInfo": {
+			"portalCustInfo": ""
+		}
+	},
+	"previousFundAmount": 0,
+	"previousFundAmountUsed": 0,
+	"previousFundAmountLeft": 0,
+	"deviceFundUsed": 0,
+	"totalQuantity": 0,
+	"deviceFundLeft": 0,
+	"amountPayable": 0,
+	"tax": 0,
+	"msisdnList": [
+		{
+			"regId": "",
+			"regType": "Normal Registration",
+			"regTypeId": "",
+			"ratplan": 697,
+			"deviceContract": "",
+			"deliveryNumber": "",
+			"mobileInfo": {
+				"mobileNo": "60121928401",
+				"sim": "8960010308284268821",
+				"simType": "Normal Sim",
+				"donorAccountNo": "",
+				"donorType": ""
+			},
+			"lineDeviceInfo": null,
+			"contractInfo": {},
+			"lineStatus": "Pending Approval",
+			"fundAmount": "",
+			"consumedAmount": "",
+			"balanceAmount": "",
+			"fundStatus": "",
+			"oldComponentList": [],
+			"vasList": [
+				{
+					"vasId": 179864,
+					"newComponentId": "48115",
+					"newPackageId": "41756"
+				},
+				{
+					"vasId": 175783,
+					"newComponentId": "40090",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175778,
+					"newComponentId": "40021",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175798,
+					"newComponentId": "40252",
+					"newPackageId": "41773"
+				},
+				{
+					"vasId": 175780,
+					"newComponentId": "40026",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175782,
+					"newComponentId": "40032",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175784,
+					"newComponentId": "46269",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175779,
+					"newComponentId": "40023",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175785,
+					"newComponentId": "46270",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175781,
+					"newComponentId": "40030",
+					"newPackageId": "41836"
+				}
+			],
+			"iddList": [],
+			"flexiFundContractTaken": false,
+			"byodContractTaken": false
+		}
+	],
+	"totalLinesadvancePayment": 0,
+	"crpLineCount": 0,
+	"isMsisdnVsn": null,
+	"msisdnVsn": null,
+	"todos": [
+		{
+			"regId": "[Not Available]",
+			"regType": "Normal Registration",
+			"regTypeId": "",
+			"deliveryNo": "",
+			"msisdn": "60121928401",
+			"simNo": "8960010308284268821",
+			"simType": "Normal Sim",
+			"donorType": "",
+			"donorAccountNo": "",
+			"ratePlan": "Biz Start 48",
+			"lineDeviceInfo": null,
+			"lineStatus": "Pending Approval",
+			"deviceStatus": null,
+			"vasList": [
+				{
+					"vasId": 179864,
+					"newComponentId": "48115",
+					"newPackageId": "41756"
+				},
+				{
+					"vasId": 175783,
+					"newComponentId": "40090",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175778,
+					"newComponentId": "40021",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175798,
+					"newComponentId": "40252",
+					"newPackageId": "41773"
+				},
+				{
+					"vasId": 175780,
+					"newComponentId": "40026",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175782,
+					"newComponentId": "40032",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175784,
+					"newComponentId": "46269",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175779,
+					"newComponentId": "40023",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175785,
+					"newComponentId": "46270",
+					"newPackageId": "41836"
+				},
+				{
+					"vasId": 175781,
+					"newComponentId": "40030",
+					"newPackageId": "41836"
+				}
+			],
+			"iddList": [],
+			"ratePlanId": 697,
+			"flexiFundContractTaken": false,
+			"byodContractTaken": false
+		}
+	],
+	"regType": "Normal Registration",
+	"regTypeId": "",
+	"ratePlan": "Biz Start 48",
+	"deviceContract": "Normal",
+	"mobileNumber": "",
+	"simCardNo": "",
+	"simType": "Normal Sim",
+	"phoneModel": "ALCATEL PIXI 4-6 4G  METAL GOLD",
+	"donorType": "",
+	"donorAccountNo": "",
+	"ratePlanId": 697
+}

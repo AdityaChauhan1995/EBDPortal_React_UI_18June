@@ -1,0 +1,10 @@
+{
+	"ratePlans":
+		[
+	  		{ "key": "1", "text": "Flexishare 188", "value": "Flexishare 188" },
+	  		{ "key": "2", "text": "Flexishare 288", "value": "Flexishare 288" },
+	  		{ "key": "3", "text": "Flexishare 388", "value": "Flexishare 388" },
+	  		{ "key": "4", "text": "Flexishare 488", "value": "Flexishare 488" },
+	  		{ "key": "5", "text": "Flexishare 588", "value": "Flexishare 588" }
+	  	]
+}

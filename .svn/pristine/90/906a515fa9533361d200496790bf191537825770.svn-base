@@ -1,0 +1,6 @@
+{
+	 "donorTypes":[
+        	{ "key": "1", "text": "Celcom", "value": "Celcom" },
+        	{ "key": "2", "text": "Digi", "value": "Digi" }
+        ]
+}

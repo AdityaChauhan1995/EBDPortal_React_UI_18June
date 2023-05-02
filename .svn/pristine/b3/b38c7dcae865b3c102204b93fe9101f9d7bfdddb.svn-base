@@ -1,0 +1,6 @@
+{
+	"simTypes":[
+	  		{ "key": "1", "text": "Mini", "value": "Mini" },
+	  		{ "key": "2", "text": "Micro", "value": "Micro" }
+	  	]
+}

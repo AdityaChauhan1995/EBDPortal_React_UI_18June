@@ -1,0 +1,204 @@
+@font-face {
+	font-family: 'Open Sans';
+	font-weight: normal;
+    src: url(OpenSans-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-weight: bold;
+    src: url(OpenSans-Bold.ttf);
+}
+
+html, body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.ui.container, .ui.fluid.container{
+	height: 100%;
+	display: flex!important;
+	flex-direction: column;
+	min-height: 98vh;
+	height: auto;
+}
+
+label.heading{
+	font-weight: bold;
+	color:#4E4E4E;
+	font-size:12px;
+	font-family: 'Open Sans', 'sans-serif' ;
+}
+
+.labelBold{
+	color:#4E4E4E;
+	font-weight: bold;
+	font-family: 'Open Sans', 'sans-serif' ;
+}
+
+textarea{
+	color:#4E4E4E;
+	font-family: 'Open Sans', 'sans-serif'!important;
+}
+
+
+.ui.label, .ui.header, .ui.button, .ui.table, .ui.grid, .ui.breadcrumb{
+	font-family: 'Open Sans', 'sans-serif'!important;
+	color:#4E4E4E;
+}
+
+
+.ui.button{
+	font-size: 12px;
+}
+
+.ui.basic.red.button{
+	font-size: 12px;
+	box-shadow: 0 0 0 2px #E14040 inset!important;
+	color: #E14040!important;
+	background-color: transparent;
+}
+
+.ui.basic.button{
+	font-size: 12px;
+	box-shadow: 0 0 0 2px #293895 inset!important;
+	color: #293895!important;
+	background-color: transparent;
+}
+.ui.compact.button{
+	font-size: 12px;
+	box-shadow: 0 0 0 2px #293895 inset!important;
+	color: #293895!important;
+	background-color: transparent;
+}
+
+.ui.primary.button{
+	font-size: 12px;
+	background-color: #293895!important;
+}
+
+.ui.primary.red.button{
+	background-color: #E14040!important;
+}
+
+.ui.compact.button{
+	padding: 8px 12px;
+}
+
+/* breadcrumbs navigation */
+.ui.breadcrumb.navigation .section{
+	padding: 8px;
+	color: #293895;
+	font-weight: bold;
+	border: 2px solid transparent;
+	border-radius: 5px;
+}
+
+.ui.breadcrumb.navigation .active.section{
+	border: 2px solid #293895;
+	border-radius: 5px;
+}
+.dangerText{
+	color:#B93643;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.ui.selection.dropdown .menu>.item, .ui.dropdown .menu .selected.item, .ui.dropdown.selected, .ui.dropdown>.text,.ui.search.dropdown.active>input.search, .ui.search.dropdown.visible>input.search{
+	font-size: 12px;
+	font-family: 'Open Sans', 'sans-serif' ;
+}
+
+
+label{
+	font-size: 12px;
+	font-family: 'Open Sans', 'sans-serif'!important;
+}
+
+.ui.form .ui.input input{
+	font-size: 12px;
+	font-family: 'Open Sans', 'sans-serif'!important;
+}
+
+.ui.tiny.progress .bar{
+	background: #293895;
+}
+
+.dimmed.dimmable>.ui.animating.dimmer, .dimmed.dimmable>.ui.visible.dimmer, .ui.active.dimmer{
+    display: flex!important;
+}
+
+
+.react-datepicker{
+	font-family: 'Open Sans', 'sans-serif'!important;
+}
+
+.react-datepicker-wrapper{
+	width: 100%;
+}
+.react-datepicker__input-container {
+    width: 100%;
+}
+
+.react-datepicker__input-container input {
+    font-size: 12px!important;
+	font-family: 'Open Sans', 'sans-serif'!important;
+}
+
+.ui.grid>.row._row{
+	padding: 5px;
+}
+
+.ui.grid>.row._row>.column{
+	padding-left: 0px;
+}
+
+.ui.checkbox label::before{
+	border-color: #293895!important;
+}
+
+.ui.checkbox input:checked~label:before{
+	background: #293895!important;
+}
+
+.ui.checkbox label::before{
+	border-color: #293895!important;
+}
+
+
+.ui.checkbox input:checked~label:after{
+	color: #fefefe!important;
+}
+
+.ui.disabled.input{
+	opacity: 0.85!important;
+}
+
+.ui.input input:disabled {
+    background: #FCFCFA!important;
+}
+
+.ui.checkbox.clickableHeader{
+    font-size: 15px;
+    -webkit-text-fill-color: #0875B5!important;
+}
+.boldLabel{
+	font-weight: bold;
+	-webkit-text-fill-color: #0875B5!important;
+}
+
+.myDatePicker{
+	width: 90%;
+	height: 35px;
+	border-radius: 5px; 
+}
+.ui-widget-header  {
+	background-color: #000066;
+    border: 1px solid #000066;
+    color: #ffffff;
+	font-weight: bold;
+	font-size: 18px;
+}
